@@ -1,0 +1,8 @@
+download
+standard
+gamble
+gamble_manage
+gamble_function
+gamble_tool
+test
+blackjack
