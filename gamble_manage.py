@@ -17,7 +17,7 @@ class gamble_management(commands.Cog):
     # check if command user have enough permission
     async def have_permission(self, author_id):
         # put manager's user id in list manager_id
-        manager_id = [int(jdata['snowmaple-id']), int(jdata['raineko-id'])]
+        manager_id = []
         return author_id in manager_id 
 
     # give target member certain amount of money, value can be negative
