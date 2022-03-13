@@ -1,8 +1,6 @@
-download
-standard
-gamble
-gamble_manage
+gamble_config
+gamble_entertain
 gamble_function
-gamble_tool
-test
+gamble_manage
+gamble_event
 blackjack
