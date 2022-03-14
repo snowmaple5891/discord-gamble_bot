@@ -27,7 +27,7 @@ A discord bot with simple commands to gamble or play games with unreal currency 
 ![image](https://user-images.githubusercontent.com/80057212/158069154-ccb8d0b3-f3c0-4cb5-bbf4-a0a625e0eb60.png)
 
     ;stand
-    end doing operation to your cards, you will get a hyperlink to tranfer back to the previous channel
+    end doing operation to your cards, you will get a hyperlink to transfer back to the previous channel
 ![image](https://user-images.githubusercontent.com/80057212/158071115-af4146b1-8930-42df-9b6b-8a7000b96b67.png)
 
 #### RESULT
@@ -87,7 +87,7 @@ A discord bot with simple commands to gamble or play games with unreal currency 
  - commands for guild manager to better manage their guild
 
 #### gamble_event.py
- - a function for guild members to can get specific roles by adding reaction to specific message
+ - a function for guild members to get specific roles by adding reaction to specific message
 
 ---
 
